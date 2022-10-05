@@ -7,6 +7,8 @@ Classify land use using K Nearest Neighbors Algorithm
 
 ## Algorithms and concepts
 
+## Sample graphical output of the classification
+
 ## What to do next?
 
 ## Further information
