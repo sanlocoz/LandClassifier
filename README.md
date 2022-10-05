@@ -13,7 +13,7 @@ RasterMap is basically like other raster object, where it holds pixel values tha
 
 <img src="img/1.gif" alt="Raster Map" width="300"/>
 
-*Basic concepts of raster object(ArcGIS Resources)*
+*Basic concepts of raster object (ArcGIS Resources)*
 
 ## Sample graphical output of the classification
 
