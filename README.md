@@ -9,8 +9,7 @@ I also try to use object-oriented paradigm in developing the module.
 The module comprises a main data structure model called <a href= "https://sanlocoz.github.io/LandClassifier/#LandClassifier.RasterMap"> RasterMap</a>.
 >RasterMap is a class that represents raster map with a total pixel of totalX * totalY. Each cell is pixelsizeX by pixelsizeY in size. Each cell can contains multivalue that given in array-like value in **kwargs.
 
-
-Classify land use using K Nearest Neighbors Algorithm
+RasterMap is basically like other raster object, where it holds pixel values that are given in dictionary of name of the layer and the raster map that could be supplied through **kwargs. 
 
 
 ## Sample graphical output of the classification
