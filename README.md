@@ -6,8 +6,9 @@ I also try to use object-oriented paradigm in developing the module.
 
 
 ## Algorithms and concepts
-*RasterMap*<br>
-is a class that represents raster map with a total pixel of totalX * totalY. Each cell is pixelsizeX by pixelsizeY in size. Each cell can contains multivalue that given in array-like value in **kwargs.
+The module comprises a main data structure model that is RasterMap.
+>*RasterMap*<br>
+>is a class that represents raster map with a total pixel of totalX * totalY. Each cell is pixelsizeX by pixelsizeY in size. Each cell can contains multivalue that given in array-like value in **kwargs.
 
 
 Classify land use using K Nearest Neighbors Algorithm
