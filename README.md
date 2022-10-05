@@ -13,9 +13,15 @@ RasterMap is basically like other raster object, where it holds pixel values tha
 
 <img src="img/1.gif" alt="Raster Map" width="300"/>
 
+*Basic concepts of raster object(ArcGIS Resources)*
+
 ## Sample graphical output of the classification
 
 ## What to do next?
+This raster object is implemented for learning purposes. There are many advanced algorithms that has been implemented in GIS softwares and GDAL codebase.
+For learning purposes, one could implements algorithm in raster object such as delineation of catchment or even flood fill algorithm given bounding box in polygon (for example).
+
+
 
 ## Further information
 The detail functionality of the module can be found <a href= "https://sanlocoz.github.io/LandClassifier/"> here</a>.
