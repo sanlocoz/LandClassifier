@@ -11,6 +11,7 @@ The module comprises a main data structure model called <a href= "https://sanloc
 
 RasterMap is basically like other raster object, where it holds pixel values that are given in dictionary of name of the layer and the raster map that could be supplied through **kwargs. 
 
+<img src="img/1.gif" alt="Raster Map" width="700"/>
 
 ## Sample graphical output of the classification
 
