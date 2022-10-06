@@ -34,4 +34,4 @@ For learning purposes, one could implements algorithm in raster object such as d
 The detail functionality of the module can be found <a href= "https://sanlocoz.github.io/LandClassifier/"> here</a>.
 
 ## References
-Seos-project.eu. n.d. SEOS Tutorials. [online] Available at: <https://seos-project.eu/> [Accessed March 2022]. 
+SEOS-project.eu. n.d. SEOS Tutorials. [online] Available at: <https://seos-project.eu/> [Accessed March 2022]. 
