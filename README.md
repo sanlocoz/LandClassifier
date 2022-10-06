@@ -22,7 +22,9 @@ There are differences in terms of distribution of NIR-RED plots for each land co
 
 <img src="img/2.jpg" alt="Reflectance" width="600"/>
 
-*Reflectance characteristics of soil, vegetation and water bodies*
+*Reflectance characteristics of soil, vegetation and water bodies (SEOS project)*
+
+
 
 ## Sample graphical output of the classification
 
