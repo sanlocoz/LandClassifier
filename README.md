@@ -57,10 +57,11 @@ K nearest neighbor as one of the method in unsupervised learning is used because
 From the theory above, we can imagine that the scatter plot of NIR vs RED are separated into 3 main areas where each of them corresponds to water, vegetation and soil land use (It also shown in the figure from the next section).
 
 ## Sample graphical output of the classification
-<img src="img/3.png" alt="Reflectance" width="600"/>
-<img src="img/4.png" alt="Reflectance" width="600"/>
-<img src="img/5.png" alt="Reflectance" width="600"/>
-<img src="img/6.gif" alt="Reflectance" width="600"/>
+<img src="img/3.png" alt="Reflectance" width="300"/>
+<img src="img/4.png" alt="Reflectance" width="300"/>
+<img src="img/5.png" alt="Reflectance" width="300"/>
+<img src="img/6.gif" alt="Reflectance" width="300"/>
+
 ## What to do next?
 This raster object is implemented for learning purposes. There are many advanced algorithms that has been implemented in GIS softwares and GDAL codebase.
 For learning purposes, one could implements algorithm in raster object such as delineation of catchment or even flood fill algorithm given bounding box in polygon (for example).
