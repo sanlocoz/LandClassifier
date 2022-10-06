@@ -50,16 +50,6 @@ $$Soil \begin{cases}
 
 The implementation is in <a href = "https://sanlocoz.github.io/LandClassifier/#LandClassifier.GenerateWaterSoilVegetationRandomMap">GenerateWaterSoilVegetationRandomMap</a> function within the module.
 
-\[
-  f(k;p) =
-  \begin{cases}
-    p     & \text{if $k = 1$}, \\
-    1 - p & \text{if $k = 0$}.
-  \end{cases}
-\]
-
-
-
 ## Sample graphical output of the classification
 
 ## What to do next?
