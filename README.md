@@ -20,7 +20,7 @@ NDVI use NIR (near-infrared) and RED reflectance to differentiate vegetation and
 
 There are differences in terms of distribution of NIR-RED plots for each land cover type. The characteristics of each land cover (soil, vegetation and water bodies) could be seen in the figure below:
 
-<img src="img/2.jpg" alt="Reflectance" width="300"/>
+<img src="img/2.jpg" alt="Reflectance" width="600"/>
 
 ## Sample graphical output of the classification
 
