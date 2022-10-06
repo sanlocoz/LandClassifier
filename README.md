@@ -48,6 +48,10 @@ The implementation is in <a href = "https://sanlocoz.github.io/LandClassifier/#L
   \end{cases}
 \]
 
+$$\begin{cases} \displaystyle
+  \frac 1 2 \\
+  \frac 3 4
+\end{cases}$$
 
 ## Sample graphical output of the classification
 
