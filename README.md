@@ -31,11 +31,11 @@ Meanwhile near infrared is significantly reflected because it is not used in the
 - Soil reflectance increases slightly from visible light range to near infrared light. 
 The reflectance is also dependent on type of the soil itself, moisture content and the mineral it is composed of.
 
-For artificial map generation used for testing purposes, the pixel of the map is generated with this underlying criteria:
+For artificial map generation that is used for testing purposes, the pixel of the map is generated with these underlying criteria:
 
-`Water, NIR <= 0.1 and RED <= 0.1` <br>
-`Vegetation, 0.3 <= NIR <= 0.8 and RED <= 0.1` <br>
-`Soil, 0.20 <= NIR <= 0.40 and 0.20 <= RED <= 0.40`
+-`Water, NIR <= 0.1 and RED <= 0.1` <br>
+-`Vegetation, 0.3 <= NIR <= 0.8 and RED <= 0.1` <br>
+-`Soil, 0.20 <= NIR <= 0.40 and 0.20 <= RED <= 0.40`
 
 
 
