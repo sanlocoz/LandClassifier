@@ -78,6 +78,10 @@ Other than that algorithm to check if a point is inside a polygon (insideness ch
 
 *Flood fill algorithm illustration (wikipedia)*
 
+<img src="img/7.PNG" alt="Reflectance" width="300"/>
+
+*Point check in a polygon*
+
 ## Further information
 The detail functionality of the module can be found <a href= "https://sanlocoz.github.io/LandClassifier/"> here</a>.
 
