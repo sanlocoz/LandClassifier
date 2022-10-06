@@ -60,11 +60,12 @@ From the theory above, we can imagine that the scatter plot of NIR vs RED are se
 <img src="img/3.png" alt="Reflectance" width="300"/>
 <img src="img/4.png" alt="Reflectance" width="300"/>
 <img src="img/5.png" alt="Reflectance" width="300"/>
-<img src="img/6.gif" alt="Reflectance" width="300"/>
 
 ## What to do next?
 This raster object is implemented for learning purposes. There are many advanced algorithms that has been implemented in GIS softwares and GDAL codebase.
 For learning purposes, one could implements algorithm in raster object such as delineation of catchment or even flood fill algorithm given bounding box in polygon (for example).
+
+<img src="img/6.gif" alt="Reflectance" width="300"/>
 
 ## Further information
 The detail functionality of the module can be found <a href= "https://sanlocoz.github.io/LandClassifier/"> here</a>.
