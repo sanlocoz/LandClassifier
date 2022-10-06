@@ -63,12 +63,11 @@ From the theory above, we can imagine that the scatter plot of NIR vs RED are se
 
 <img src="img/3.png" alt="Reflectance" width="300"/>
 
-*Confustion matrix for error measurement*
+*Confusion matrix for error measurement*
 
 <img src="img/4.png" alt="Reflectance" width="300"/>
 
-*Confustion matrix for error measurement*
-
+*NDVI density plot of NDVI*
 
 ## What to do next?
 This raster object is implemented for learning purposes. There are many advanced algorithms that has been implemented in GIS softwares and GDAL codebase.
