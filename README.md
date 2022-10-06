@@ -48,7 +48,7 @@ The implementation is in <a href = "https://sanlocoz.github.io/LandClassifier/#L
   \end{cases}
 \]
 
-$$\begin{cases} \displaystyle
+$$\begin{cases}
   \frac 1 2 \\
   \frac 3 4
 \end{cases}$$
