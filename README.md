@@ -72,6 +72,7 @@ From the theory above, we can imagine that the scatter plot of NIR vs RED are se
 ## What to do next?
 This raster object is implemented for learning purposes. There are many advanced algorithms that has been implemented in GIS softwares and GDAL codebase.
 For learning purposes, one could implements algorithm in raster object such as delineation of catchment or even flood fill algorithm given bounding box in polygon (for creating ground truthing map).
+Other than that algorithm to check if a point is inside a polygon (insideness check) will be useful as shown in the figure below.
 
 <img src="img/6.gif" alt="Reflectance" width="300"/>
 
