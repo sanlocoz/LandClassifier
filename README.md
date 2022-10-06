@@ -45,12 +45,13 @@ $$Vegetation \begin{cases}
 
 $$Soil \begin{cases}
   0.2 \leq NIR \leq 0.4 \\
-  0.2 \leq NIR \leq 0.4
+  0.2 \leq RED \leq 0.4
 \end{cases}$$
 
 The implementation is in <a href = "https://sanlocoz.github.io/LandClassifier/#LandClassifier.GenerateWaterSoilVegetationRandomMap">GenerateWaterSoilVegetationRandomMap</a> function within the module.
 
 The map is then classifed with K nearest neighbor algoritm within scikit-learn and confusion matrix is chosen as the error metrics.
+The implementation of classifying the land use is given in
 K nearest neighbor as one of the method in unsupervised learning is used because the characteristics of the problem is similar to what the algorithm results.
 From the theory above, we can imagine that the scatter plot of NIR vs RED are separated into 3 main areas where each of them corresponds to water, vegetation and soil land use.
 
