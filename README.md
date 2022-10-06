@@ -33,7 +33,11 @@ The reflectance is also dependent on type of the soil itself, moisture content a
 
 For artificial map generation that is used for testing purposes, the pixel of the map is generated with these underlying criteria:
 
-$Water$
+$$Water \begin{cases}
+  \frac 1 2 \\
+  \frac 3 4
+\end{cases}$$
+
 $$NIR \leq 0.1 \enspace and \enspace RED  \leq 0.1$$ <br>
 `Vegetation, 0.3 <= NIR <= 0.8 and RED <= 0.1` <br>
 `Soil, 0.20 <= NIR <= 0.40 and 0.20 <= RED <= 0.40`
@@ -48,10 +52,7 @@ The implementation is in <a href = "https://sanlocoz.github.io/LandClassifier/#L
   \end{cases}
 \]
 
-$$\begin{cases}
-  \frac 1 2 \\
-  \frac 3 4
-\end{cases}$$
+
 
 ## Sample graphical output of the classification
 
