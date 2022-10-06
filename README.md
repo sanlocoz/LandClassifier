@@ -30,8 +30,8 @@ From the figure above there are some characteristics that we could derived:
 Meanwhile near infrared is significantly reflected because it is not used in the process of photosynthesis.
 - 
 
-`Water, NIR <= 0.1 and RED <= 0.1`
-`Vegetation, 0.3 <= NIR <= 0.8 and RED <= 0.1`
+`Water, NIR <= 0.1 and RED <= 0.1` <br>
+`Vegetation, 0.3 <= NIR <= 0.8 and RED <= 0.1` <br>
 `Soil, 0.20 <= NIR <= 0.40 and 0.20 <= RED <= 0.40`
 
 
