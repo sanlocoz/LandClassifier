@@ -37,6 +37,7 @@ For artificial map generation that is used for testing purposes, the pixel of th
 `Vegetation, 0.3 <= NIR <= 0.8 and RED <= 0.1` <br>
 `Soil, 0.20 <= NIR <= 0.40 and 0.20 <= RED <= 0.40`
 
+The implementation is in <a href = "">GenerateWaterSoilVegetationRandomMap</a> function within the module.
 
 
 ## Sample graphical output of the classification
