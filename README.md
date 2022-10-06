@@ -76,9 +76,7 @@ Other than that algorithm to check if a point is inside a polygon (insideness ch
 
 <img src="img/6.gif" alt="Reflectance" width="300"/>
 
-*Flood fill algorithm illustration (wikipedia)*
-
-
+*Flood fill algorithm illustration (wikipedia)* <br><br>
 
 <img src="img/7.PNG" alt="point check in polygon" width="600"/>
 
