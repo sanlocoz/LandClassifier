@@ -22,6 +22,8 @@ There are differences in terms of distribution of NIR-RED plots for each land co
 
 <img src="img/2.jpg" alt="Reflectance" width="600"/>
 
+*Reflectance characteristics of soil, vegetation and water bodies*
+
 ## Sample graphical output of the classification
 
 ## What to do next?
@@ -30,3 +32,6 @@ For learning purposes, one could implements algorithm in raster object such as d
 
 ## Further information
 The detail functionality of the module can be found <a href= "https://sanlocoz.github.io/LandClassifier/"> here</a>.
+
+## References
+https://seos-project.eu/classification/classification-c01-p05.html 
