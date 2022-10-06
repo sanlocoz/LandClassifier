@@ -52,8 +52,9 @@ The implementation is in <a href = "https://sanlocoz.github.io/LandClassifier/#L
 
 The map is then classifed with K nearest neighbor algoritm within scikit-learn and confusion matrix is chosen as the error metrics.
 The implementation of classifying the land use is given in <a href = "https://sanlocoz.github.io/LandClassifier/#LandClassifier.RasterMap.LandClustering">LandClustering</a> and <a href = "https://sanlocoz.github.io/LandClassifier/#LandClassifier.RasterMap.ClassifySoilVegetationWater">ClassifySoilVegetationWater</a> attributes within <a href= "https://sanlocoz.github.io/LandClassifier/#LandClassifier.RasterMap">RasterMap</a> class.
+
 K nearest neighbor as one of the method in unsupervised learning is used because the characteristics of the problem is similar to what the algorithm results.
-From the theory above, we can imagine that the scatter plot of NIR vs RED are separated into 3 main areas where each of them corresponds to water, vegetation and soil land use (It also shown in the figure from the next section).
+From the theory above, we can imagine that the scatter plot of NIR vs RED are separated into 3 main areas where each of them corresponds to water, vegetation and soil land use (It also shown in the figusre from the next section).
 
 ## Sample graphical output of the classification
 
