@@ -18,7 +18,7 @@ RasterMap is basically like other raster object, where it holds pixel values tha
 In remote sensing of land cover, one of the well known parameters is NDVI (Normalized difference vegetation index).
 NDVI use NIR (near-infrared) and RED reflectance to differentiate vegetation and other land cover.
 
-There are differences in terms of scattered area of NIR-RED plot. The charachteristic of each land cover (soil, vegetation and water bodies) could be seen from the figure below:
+There are differences in terms of distribution of NIR-RED plots for each land cover type. The characteristics of each land cover (soil, vegetation and water bodies) could be seen in the figure below:
 
 <img src="img/2.jpg" alt="Reflectance" width="300"/>
 
