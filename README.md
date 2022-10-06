@@ -38,8 +38,15 @@ $$Water \begin{cases}
   RED  \leq 0.1
 \end{cases}$$
 
-`Vegetation, 0.3 <= NIR <= 0.8 and RED <= 0.1` <br>
-`Soil, 0.20 <= NIR <= 0.40 and 0.20 <= RED <= 0.40`
+$$Vegetation \begin{cases}
+  0.3 \leq NIR \leq 0.8 \\
+  RED  \leq 0.1
+\end{cases}$$
+
+$$Soil \begin{cases}
+  0.2 \leq NIR \leq 0.4 \\
+  0.2 \leq NIR \leq 0.4
+\end{cases}$$
 
 The implementation is in <a href = "https://sanlocoz.github.io/LandClassifier/#LandClassifier.GenerateWaterSoilVegetationRandomMap">GenerateWaterSoilVegetationRandomMap</a> function within the module.
 
