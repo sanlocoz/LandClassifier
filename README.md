@@ -24,6 +24,15 @@ There are differences in terms of distribution of NIR-RED plots for each land co
 
 *Reflectance characteristics of soil, vegetation and water bodies (SEOS project)*
 
+From the figure above there are some characteristics that we could derived:
+- Water only reflects visible light range and the value is significantly lower than other two land use (soil and vegetation)
+- Vegetation has a jump in the reflectance from RED (visible light) to NIR (near infrared). It is because visible blue and red light is used in photosynthesis.
+Meanwhile near infrared is significantly reflected because it is not used in the process of photosynthesis.
+
+• Water, NIR <= 0.1 and RED <= 0.1
+• Vegetation, 0.3 <= NIR <= 0.8 and RED <= 0.1
+• Soil, 0.20 <= NIR <= 0.40 and 0.20 <= RED <= 0.40
+
 
 
 ## Sample graphical output of the classification
