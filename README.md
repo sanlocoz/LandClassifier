@@ -15,6 +15,10 @@ RasterMap is basically like other raster object, where it holds pixel values tha
 
 *Basic concepts of raster object (ArcGIS Resources)*
 
+In remote sensing of land cover, one of the well known parameters is NDVI (Normalized difference vegetation index).
+NDVI use NIR (near-infrared) and RED reflectance to differentiate vegetation and other land cover.
+
+
 ## Sample graphical output of the classification
 
 ## What to do next?
