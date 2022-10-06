@@ -50,6 +50,8 @@ $$Soil \begin{cases}
 
 The implementation is in <a href = "https://sanlocoz.github.io/LandClassifier/#LandClassifier.GenerateWaterSoilVegetationRandomMap">GenerateWaterSoilVegetationRandomMap</a> function within the module.
 
+The map is then classifed with K nearest neighbor algoritm within scikit-learn and confusion matrix is chosen as the error metrics.
+
 ## Sample graphical output of the classification
 
 ## What to do next?
